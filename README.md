@@ -1,1 +1,1 @@
-# SQL-link-data-with-PowerBI
+# SQL-connected-data-with-PowerBI
